@@ -1,2 +1,2 @@
 # Hangman
-Esercitazione di Ingegneria del Software sulla programmazione di sistemi client/server00
+Esercitazione di Ingegneria del Software sulla programmazione di sistemi client/server
